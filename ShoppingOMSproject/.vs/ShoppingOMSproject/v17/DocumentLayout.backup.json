@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\repository\\itemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\repository\\itemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\repository\\iitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\repository\\iitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\model\\domain\\shoppingomsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\model\\domain\\shoppingomsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\model\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\model\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\model\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\model\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\model\\domain\\shipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\model\\domain\\shipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\model\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\model\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\repository\\shippingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\repository\\shippingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\repository\\ishippingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\repository\\ishippingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\model\\domain\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\model\\domain\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|d:\\my learnings\\languages\\c# and dotnet\\handson\\shoppingoms\\shoppingomsproject\\shoppingomsproject\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67443520-8F96-4C45-B118-7A86B6D3851D}|ShoppingOMSproject\\ShoppingOMSproject.csproj|solutionrelative:shoppingomsproject\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Program.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Program.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:56:34.077Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:41:43.176Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Shipping.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Model\\Domain\\Shipping.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Model\\Domain\\Shipping.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Model\\Domain\\Shipping.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Model\\Domain\\Shipping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:58:02.479Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\appsettings.json",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\appsettings.json",
+              "RelativeToolTip": "ShoppingOMSproject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T10:41:16.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:55:29.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Repository\\UserRepo.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Repository\\UserRepo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:50:17.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoppingOMSDBContext.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Model\\Domain\\ShoppingOMSDBContext.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Model\\Domain\\ShoppingOMSDBContext.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Model\\Domain\\ShoppingOMSDBContext.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Model\\Domain\\ShoppingOMSDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T17:24:38.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAA+wJYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:58:46.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:06:01.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemRepo.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Repository\\ItemRepo.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Repository\\ItemRepo.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Repository\\ItemRepo.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Repository\\ItemRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:36:50.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IItemRepo.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Repository\\IItemRepo.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Repository\\IItemRepo.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Repository\\IItemRepo.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Repository\\IItemRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:35:15.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Model\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Model\\Domain\\Category.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Model\\Domain\\Category.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Model\\Domain\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:33:00.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Model\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Model\\DTO\\CategoryDTO.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Model\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Model\\DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:32:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wDoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:14:19.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Model\\Domain\\Wishlist.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Model\\Domain\\Wishlist.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Model\\Domain\\Wishlist.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Model\\Domain\\Wishlist.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:32:46.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Model\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Model\\Domain\\User.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Model\\Domain\\User.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Model\\Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:32:22.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwEUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:52:01.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidateModelAttribute.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:43:02.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IShippingRepo.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Repository\\IShippingRepo.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Repository\\IShippingRepo.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Repository\\IShippingRepo.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Repository\\IShippingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:09:17.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShippingRepo.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Repository\\ShippingRepo.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Repository\\ShippingRepo.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Repository\\ShippingRepo.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Repository\\ShippingRepo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:09:02.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Repository\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "ShoppingOMSproject\\Repository\\CategoryRepo.cs",
+              "ToolTip": "D:\\MY Learnings\\Languages\\C# and Dotnet\\HandsON\\ShoppingOMS\\ShoppingOMSproject\\ShoppingOMSproject\\Repository\\CategoryRepo.cs",
+              "RelativeToolTip": "ShoppingOMSproject\\Repository\\CategoryRepo.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwDIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:08:04.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
