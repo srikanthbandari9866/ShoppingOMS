@@ -1,4 +1,4 @@
-# ShoppingOMS
+# ShoppingOMS (Dotnet & React.js)
 ![1](https://github.com/user-attachments/assets/2186ad53-ec17-46e0-b87e-a785ebbae286)
 ![2](https://github.com/user-attachments/assets/361994fc-26b5-4556-ad7a-5f2978b97f82)
 ![3](https://github.com/user-attachments/assets/2b650d73-88d2-45b4-9673-9d82bfe067a8)
