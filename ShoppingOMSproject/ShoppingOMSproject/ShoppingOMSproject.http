@@ -1,0 +1,6 @@
+@ShoppingOMSproject_HostAddress = http://localhost:5181
+
+GET {{ShoppingOMSproject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
